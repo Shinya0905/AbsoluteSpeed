@@ -18,7 +18,7 @@ public struct RecoveryData
     public RecoveryData(Vector3 position, Quaternion rotation) { mPosition = position; mRotation = rotation; }
 }
 
-public class RecoveryBoy : MonoBehaviour
+public class Recovery : MonoBehaviour
 {
     /// <summary>何秒前に戻るのか</summary>
     private static float RECOVERY_TIME = 3.0f;
