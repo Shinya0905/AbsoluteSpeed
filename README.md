@@ -16,11 +16,11 @@
 <br />
 
 クラスの説明<br />
-AirRide.cs			->浮遊し、地面に沿って車体を傾ける処理。<br />
-AirRideRay.cs			->AirRideクラスで使用するレイをまとめたクラス。<br />
-BodyFloat.cs			->地面から車体を浮遊させる処理を行うクラス。<br />
-ConvertUnits.cs		->単位の変換をまとめたクラス。<br />
-DirectionFix.cs			->壁に衝突したときなどに方向修正を行うクラス。<br />
+AirRide.cs			　　　->浮遊し、地面に沿って車体を傾ける処理。<br />
+AirRideRay.cs		　　　->AirRideクラスで使用するレイをまとめたクラス。<br />
+BodyFloat.cs			　　->地面から車体を浮遊させる処理を行うクラス。<br />
+ConvertUnits.cs		　　->単位の変換をまとめたクラス。<br />
+DirectionFix.cs	　　	->壁に衝突したときなどに方向修正を行うクラス。<br />
 DirectionFixRay.cs		->DirectionFixで使用するレイをまとめたクラス。<br />
 Engine.cs				->EngineRpmCalculatorクラスを使用し、各タイミングでの回転数を管理すクラス。<br />
 EngineRpmCalculator.cs ->エンジンの回転数を算出するクラス。<br />
